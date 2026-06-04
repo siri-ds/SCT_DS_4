@@ -76,8 +76,4 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/car_crashes.csv
 
 This project demonstrates how data visualization and exploratory analysis can be used to uncover accident patterns and contributing factors, providing insights that may help improve road safety awareness and decision-making.
 
-##images
-sppeding distribution.png
-alchohol vs speeding.png
-correlation_heatmap.png
-top states by total accidents.png
+
